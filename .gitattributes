@@ -1,30 +1,28 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 <body>  
-    <div id="card">
-      <center><h1>Valentines Day Card </h1></center>
-      <div class="heart" id="heart1">
-        <div id="half1">
-          <div id="circle"></div>
-          <div id="rec"></div>
-        </div>
-        <div id="half2">
-          <div id="circle"></div>
-          <div id="rec"></div>
-        </div>
+  <div id="card">
+    <center><h1>Chúc em ngày valentine vui vẻ </h1></center>
+    <div class="heart" id="heart1">
+      <div id="half1">
+        <div id="circle"></div>
+        <div id="rec"></div>
       </div>
-      <div id="message">
-        <h2>Happy Valentines Day Sonali</h2>
-      </div>
-      <div class="heart" id="heart2">
-        <div id="half1">
-          <div id="circle"></div>
-          <div id="rec"></div>
-        </div>
-        <div id="half2">
-          <div id="circle"></div>
-          <div id="rec"></div>
-        </div>
+      <div id="half2">
+        <div id="circle"></div>
+        <div id="rec"></div>
       </div>
     </div>
-  </body>
+    <div id="message">
+      <h2>Cảm ơn em vì đã đến bên anh </h2>
+    </div>
+    <div class="heart" id="heart2">
+      <div id="half1">
+        <div id="circle"></div>
+        <div id="rec"></div>
+      </div>
+      <div id="half2">
+        <div id="circle"></div>
+        <div id="rec"></div>
+      </div>
+    </div>
+  </div>
+</body>
